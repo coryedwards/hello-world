@@ -1,2 +1,4 @@
 # hello-world
-first trial repository
+Hello,
+
+I am Cory and here are some random things about me.
